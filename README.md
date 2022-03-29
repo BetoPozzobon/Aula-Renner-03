@@ -9,4 +9,5 @@ Olá, sou o Carlos, entrei no curso com o objetivo de aprender mais sobre análi
  -Tenho um Cachorro
  -Sou interessado pelos mais diversos tópicos
 
->>>>>>> ab4a0d4 (Commit do README)
+## Programo faz pouco tempo, pouco mais de 1 ano, comecei aprendendo Python.
+>>>>>>> 28b21f8 (Adiciona o README)
