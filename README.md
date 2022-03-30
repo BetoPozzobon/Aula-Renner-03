@@ -6,4 +6,4 @@ Olá, sou o Carlos, entrei no curso com o objetivo de aprender mais sobre análi
  - Vou na Academia 3x por semana
  -Tenho um Cachorro
  -Sou interessado pelos mais diversos tópicos
-
+## Uso um Notebook Lenovo Y-50, com core i7 4770k
