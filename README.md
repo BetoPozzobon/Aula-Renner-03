@@ -10,4 +10,5 @@ Olá, sou o Carlos, entrei no curso com o objetivo de aprender mais sobre análi
  -Sou interessado pelos mais diversos tópicos
 
 ## Programo faz pouco tempo, pouco mais de 1 ano, comecei aprendendo Python.
->>>>>>> 28b21f8 (Adiciona o README)
+
+## Uso um Notebook Lenovo Y-50, com core i7 4770k
