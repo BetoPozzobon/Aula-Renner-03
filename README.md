@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # README
 # Página pessoal de Carlos Pozzobon
 
