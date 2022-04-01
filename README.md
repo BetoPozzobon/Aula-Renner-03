@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # README
 # Página pessoal de Carlos Pozzobon
 
@@ -13,4 +13,6 @@ Olá, sou o Carlos, entrei no curso com o objetivo de aprender mais sobre análi
 
 ## Uso um Notebook Lenovo Y-50, com core i7 4770k
 
-Fixes Issue #7
+# Feature 1
+
+Fixes #7
